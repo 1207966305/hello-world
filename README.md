@@ -6,3 +6,6 @@ https://dataxujing.github.io/TensorFlow%E5%88%86%E5%B8%83%E5%BC%8F%E5%B9%B6%E8%A
 ** Hadoop框架基础（一）
 
 https://www.jianshu.com/p/691544a9738f?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+
+**HashMap
+https://www.jianshu.com/p/0c8e2365c392
